@@ -1,0 +1,52 @@
+1. `<html>`: Defines the root of an HTML document.
+2. `<head>`: Contains metadata about the document.
+3. `<title>`: Defines the title of the document, shown in the browser's title bar.
+4. `<body>`: Contains the visible content of the document.
+5. `<h1>` to `<h6>`: Defines headings of different levels.
+6. `<p>`: Defines a paragraph.
+7. `<a>`: Defines a hyperlink.
+8. `<img>`: Embeds an image.
+9. `<ul>`: Defines an unordered list.
+10. `<ol>`: Defines an ordered list.
+11. `<li>`: Defines a list item within `<ul>` or `<ol>`.
+12. `<div>`: Defines a division or section in a document.
+13. `<span>`: Defines a section in a document for styling purposes.
+14. `<strong>`: Defines important text, typically displayed in bold.
+15. `<em>`: Defines emphasized text, typically displayed in italics.
+16. `<br>`: Inserts a single line break.
+17. `<hr>`: Defines a thematic break or horizontal rule.
+18. `<table>`: Defines a table.
+19. `<tr>`: Defines a table row.
+20. `<td>`: Defines a table cell.
+21. `<th>`: Defines a table header cell.
+22. `<form>`: Defines an HTML form for user input.
+23. `<input>`: Defines an input control.
+24. `<textarea>`: Defines a multiline text input control.
+25. `<button>`: Defines a clickable button.
+26. `<select>`: Defines a dropdown list.
+27. `<option>`: Defines an option in a `<select>` dropdown.
+28. `<label>`: Defines a label for an `<input>` element.
+29. `<iframe>`: Embeds another HTML page into the current document.
+30. `<audio>`: Embeds audio content.
+31. `<video>`: Embeds video content.
+32. `<source>`: Defines multiple media resources for `<audio>` or `<video>`.
+33. `<canvas>`: Defines an area for graphics, drawn with JavaScript.
+34. `<script>`: Embeds JavaScript code in the document.
+35. `<style>`: Defines style information for a document.
+36. `<meta>`: Provides metadata about the HTML document.
+37. `<link>`: Links external resources, such as stylesheets.
+38. `<base>`: Specifies the base URL/target for all relative URLs in a document.
+39. `<abbr>`: Defines an abbreviation or acronym.
+40. `<address>`: Defines contact information for the author/owner of a document/article.
+41. `<cite>`: Defines the title of a work (e.g., a book, a movie, etc.).
+42. `<code>`: Defines a piece of computer code.
+43. `<pre>`: Defines preformatted text, preserving spaces and line breaks.
+44. `<blockquote>`: Defines a block of quoted text.
+45. `<sub>`: Defines subscript text.
+46. `<sup>`: Defines superscript text.
+47. `<kbd>`: Defines keyboard input.
+48. `<var>`: Defines a variable.
+49. `<dfn>`: Defines a definition term.
+50. `<time>`: Defines a specific period in time or a date.
+
+These are some of the most commonly used HTML tags, but there are many more available for various purposes.
